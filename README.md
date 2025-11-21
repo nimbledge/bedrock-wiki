@@ -1,4 +1,4 @@
-# Bedrock Wiki
+# Bedrock Wiki 
 
 Welcome to the GitHub repository for the Bedrock Wiki!
 
