@@ -8,7 +8,8 @@ export default defineWikiConfig({
   longTitle: "The Bedrock Wiki",
   description: "A knowledge-sharing website for technical features of Minecraft Bedrock.",
 
-  url: "https://nimbledge.github.io/bedrock-wiki",
+  url: "https://nimbledge.github.io",
+  base: "/bedrock-wiki/",
   repository: "https://github.com/Bedrock-OSS/bedrock-wiki",
 
   algolia: {
